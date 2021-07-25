@@ -1,0 +1,25 @@
+.PageTitleInjector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 138px;
+    height: 70vh;
+}
+
+
+/* website snippet  */
+
+#app {
+    .app--vscode {
+        .app__main {
+            .app__half {
+                .app__halfbottom {
+                    textarea.app__textarea {
+                        height: 50vh !important;
+                        white-space: break-spaces !important;
+                    }
+                }
+            }
+        }
+    }
+}
