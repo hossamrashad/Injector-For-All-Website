@@ -1,6 +1,6 @@
 /* website snippet  */
 
-.app .app--vscode .app__main .app__half .app__halfbottom .app__textarea {
+#app .app--vscode .app__main .app__half .app__halfbottom .app__textarea {
     height: 50vh;
     white-space: break-spaces;
 }
