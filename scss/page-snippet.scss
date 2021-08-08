@@ -14,9 +14,16 @@
         .app__main {
             .app__half {
                 .app__halfbottom {
+                    // Style For textarea write 
                     textarea.app__textarea {
-                        height: 50vh !important;
+                        height: 100vh !important;
                         white-space: break-spaces !important;
+                    }
+                    // Style For Button copy 
+                    .app__buttons {
+                        position: fixed;
+                        right: 8px;
+                        top: 173px;
                     }
                 }
             }
