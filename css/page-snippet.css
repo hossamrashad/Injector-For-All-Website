@@ -18,6 +18,7 @@
 #app .app--vscode .app__main .app__half .app__halfbottom textarea.app__textarea {
     height: 100vh !important;
     white-space: break-spaces !important;
+    /* Add */
     word-break: break-all;
 }
 
