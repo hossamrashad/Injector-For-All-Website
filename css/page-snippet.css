@@ -1,26 +1,31 @@
 .PageTitleInjector {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  font-size: 138px;
-  height: 70vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 138px;
+    height: 70vh;
 }
 
+
 /* website snippet  */
+
 #app .app--vscode .app__main .app__half .app__halfbottom textarea.app__textarea {
-  height: 100vh !important;
-  white-space: break-spaces !important;
+    height: 100vh !important;
+    white-space: break-spaces !important;
+    word-break: break-all;
 }
 
 #app .app--vscode .app__main .app__half .app__halfbottom .app__buttons {
-  position: fixed;
-  right: 8px;
-  top: 173px;
+    position: fixed;
+    right: 8px;
+    top: 173px;
 }
+
+
 /*# sourceMappingURL=page-snippet.css.map */

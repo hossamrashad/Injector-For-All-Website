@@ -18,6 +18,7 @@
                     textarea.app__textarea {
                         height: 100vh !important;
                         white-space: break-spaces !important;
+                        word-break: break-all;
                     }
                     // Style For Button copy 
                     .app__buttons {
